@@ -11,12 +11,10 @@
 
 .box2{
     background-color:#F07F80;
-    text-align: center;
-    padding:3px;  
+    display: flex;
+    justify-content: center;
     height:200px;
 }
-
-
 .container{
     width: 100%;
 }
